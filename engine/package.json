@@ -1,0 +1,8 @@
+{
+  "name": "claude-video-effects-engine",
+  "private": true,
+  "description": "Renderer for the claude-video-effects skills: headless Chromium draws each frame.",
+  "dependencies": {
+    "playwright": "1.61.1"
+  }
+}

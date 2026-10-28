@@ -1,0 +1,15 @@
+{
+  "name": "reel-effects",
+  "description": "Premium talking-head video effects for Claude Code, one skill per effect: glass widgets, neon word, orbit, documentary, match cut, shutter strike, profile wall, plus the Claude-app slash-command frame and the all-edits grid. Each effect tracks the speaker (face and cut-out) and has its own sound hit, synced to the frame.",
+  "version": "0.1.0",
+  "author": {
+    "name": "Yusif Darwish"
+  },
+  "keywords": [
+    "video",
+    "effects",
+    "reels",
+    "talking-head",
+    "editing"
+  ]
+}

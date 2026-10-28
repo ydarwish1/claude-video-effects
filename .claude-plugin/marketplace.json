@@ -1,0 +1,14 @@
+{
+  "name": "yusif-video-effects",
+  "owner": {
+    "name": "Yusif Darwish"
+  },
+  "plugins": [
+    {
+      "name": "reel-effects",
+      "source": "./",
+      "description": "Premium talking-head video effects, one skill per effect, with the Claude-app frame and the all-edits grid."
+    }
+  ],
+  "description": "Yusif Darwish's premium talking-head video effects for Claude Code."
+}

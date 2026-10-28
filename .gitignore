@@ -1,0 +1,8 @@
+engine/.venv/
+engine/node_modules/
+engine/package-lock.json
+engine/models/
+engine/sfx/
+__pycache__/
+*.pyc
+.DS_Store

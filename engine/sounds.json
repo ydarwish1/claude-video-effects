@@ -1,0 +1,21 @@
+{
+ "_about": "Every hit the effects use: where get_sounds.py downloads it, which part it keeps and how it is processed. Event = seconds from the file start to the moment that lands on the picture. Mixkit sounds are downloaded by each user under the Mixkit Sound Effects Free License (https://mixkit.co/license/#sfxFree); they are not shipped in this repo. neon-on is Freesound 145119 by gilligan_itm, CC0.",
+ "sounds": [
+  {"name": "key-tap-1", "url": "https://assets.mixkit.co/active_storage/sfx/2535/2535-preview.mp3", "page": "https://mixkit.co/free-sound-effects/keyboard/", "start": 0.246, "end": 0.296, "rate": 1.0, "event": 0.006},
+  {"name": "key-tap-2", "url": "https://assets.mixkit.co/active_storage/sfx/2535/2535-preview.mp3", "page": "https://mixkit.co/free-sound-effects/keyboard/", "start": 0.246, "end": 0.296, "rate": 1.06, "event": 0.005},
+  {"name": "key-tap-3", "url": "https://assets.mixkit.co/active_storage/sfx/2535/2535-preview.mp3", "page": "https://mixkit.co/free-sound-effects/keyboard/", "start": 0.246, "end": 0.296, "rate": 0.94, "event": 0.006},
+  {"name": "send", "url": "https://assets.mixkit.co/active_storage/sfx/3115/3115-preview.mp3", "page": "https://mixkit.co/free-sound-effects/swoosh/", "start": 0.035, "end": 0.300, "event": 0.076},
+  {"name": "loader", "url": "https://assets.mixkit.co/active_storage/sfx/3060/3060-preview.mp3", "page": "https://mixkit.co/free-sound-effects/sparkle/", "start": 0.040, "end": 0.390, "event": 0.213},
+  {"name": "zoom-whoosh", "url": "https://assets.mixkit.co/active_storage/sfx/2627/2627-preview.mp3", "page": "https://mixkit.co/free-sound-effects/zoom/", "start": 0.045, "end": 0.525, "event": 0.212},
+  {"name": "glass-tick", "url": "https://assets.mixkit.co/active_storage/sfx/2936/2936-preview.mp3", "page": "https://mixkit.co/free-sound-effects/glass/", "start": 0.003, "end": 0.400, "event": 0.005},
+  {"name": "neon-on", "url": "https://cdn.freesound.org/previews/145/145119_1803710-hq.mp3", "page": "https://freesound.org/people/gilligan_itm/sounds/145119/", "start": 0.895, "end": 1.495, "event": 0.020},
+  {"name": "orbit-whoosh", "url": "https://assets.mixkit.co/active_storage/sfx/1493/1493-preview.mp3", "page": "https://mixkit.co/free-sound-effects/whoosh/", "start": 1.650, "end": 2.250, "event": 0.322},
+  {"name": "tap", "url": "https://assets.mixkit.co/active_storage/sfx/1120/1120-preview.mp3", "page": "https://mixkit.co/free-sound-effects/click/", "start": 0.096, "end": 0.185, "event": 0.004},
+  {"name": "page-cut", "url": "https://assets.mixkit.co/active_storage/sfx/2002/2002-preview.mp3", "page": "https://mixkit.co/free-sound-effects/cards/", "start": 0.180, "end": 0.280, "event": 0.005},
+  {"name": "shutter", "url": "https://assets.mixkit.co/active_storage/sfx/1133/1133-preview.mp3", "page": "https://mixkit.co/free-sound-effects/camera/", "start": 0.138, "end": 0.270, "event": 0.005},
+  {"name": "tile-pop", "url": "https://assets.mixkit.co/active_storage/sfx/731/731-preview.mp3", "page": "https://mixkit.co/free-sound-effects/bubble/", "start": 0.000, "end": 0.130, "event": 0.001},
+  {"name": "grid-pop", "url": "https://assets.mixkit.co/active_storage/sfx/2925/2925-preview.mp3", "page": "https://mixkit.co/free-sound-effects/bubble/", "start": 0.046, "end": 0.125, "event": 0.002},
+  {"name": "cta-hit", "url": "https://assets.mixkit.co/active_storage/sfx/563/563-preview.mp3", "page": "https://mixkit.co/free-sound-effects/cinematic/", "start": 0.140, "end": 1.500, "highpass": 25, "event": 0.016},
+  {"name": "riser", "url": "https://assets.mixkit.co/active_storage/sfx/790/790-preview.mp3", "page": "https://mixkit.co/free-sound-effects/riser/", "start": 1.375, "end": 2.575, "highpass": 25, "event": 1.115}
+ ]
+}
